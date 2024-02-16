@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/lendingclub/login",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/lendingclub/login",
+  "ameliaUrl": "https://lendingclub.demo.amelia.com/Amelia/ui/lending_club/login",
+  "chatUrl": "https://lendingclub.demo.amelia.com/Amelia/ui/lending_club/login",
   "clientUrl": "https://www.lendingclub.com/"
 }
